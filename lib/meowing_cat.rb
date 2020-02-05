@@ -9,4 +9,6 @@ class Meow
   
 end
 
+Cat.name = "Maru"
+
 maru.meow
