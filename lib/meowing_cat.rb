@@ -8,3 +8,5 @@ class Meow
   puts "meow!"
   
 end
+
+maru.meow
