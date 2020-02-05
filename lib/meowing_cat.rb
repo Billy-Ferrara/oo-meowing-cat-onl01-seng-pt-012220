@@ -2,12 +2,14 @@ class Cat
 
 attr_accessor:name 
 
-end
-
 class meow
   puts "meow!"
   
 end
+
+end
+
+
 
 maru = Cat.new 
 maru.name= "Maru"
