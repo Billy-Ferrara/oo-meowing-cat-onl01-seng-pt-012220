@@ -9,6 +9,7 @@ class Meow
   
 end
 
-Cat.name= "Maru"
+maru = Cat.new 
+maru.name= "Maru"
 
 maru.meow
