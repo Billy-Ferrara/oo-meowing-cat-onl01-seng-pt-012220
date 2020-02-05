@@ -4,7 +4,7 @@ attr_accessor:name
 
 end
 
-class meow
+class Meow
   puts "meow!"
   
 end
