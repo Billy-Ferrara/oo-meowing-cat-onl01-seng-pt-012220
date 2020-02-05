@@ -9,6 +9,6 @@ class Meow
   
 end
 
-Cat.name = "Maru"
+Cat.name= "Maru"
 
 maru.meow
