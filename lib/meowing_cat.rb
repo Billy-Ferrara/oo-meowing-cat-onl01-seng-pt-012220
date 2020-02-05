@@ -2,7 +2,7 @@ class Cat
 
 attr_accessor:name 
 
-class meow
+class Meow
   puts "meow!"
   
 end
